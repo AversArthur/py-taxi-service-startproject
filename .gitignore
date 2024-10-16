@@ -178,3 +178,4 @@ idea/
 !/.gitignore
 !/venv/
 !/.github/
+!/taxi_service/settings.py
